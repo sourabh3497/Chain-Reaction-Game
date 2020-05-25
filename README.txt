@@ -1,8 +1,5 @@
 PROJECT NAME: Chain reaction Game
 
-NAME: Sourabh Sanjay Patil
-MIS:111708046
-
  M x M board.
  help page.
  pause and resume game.
