@@ -1,0 +1,20 @@
+style "widgets"
+{
+	xthickness = 2
+	ythickness = 2
+	fg[ACTIVE] = "#FFFFFF"
+	fg[SELECTED] = "#003366"
+	fg[NORMAL] = "#CCCCCC"
+	fg[PRELIGHT] = "#FFFFFF"
+	fg[INSENSITIVE] = "#999999"
+	bg[ACTIVE] = "#FFFFFF"
+	bg[SELECTED] = "#FFFFFF"
+	bg[NORMAL] = "#C4C4C4"
+	bg[PRELIGHT] = "#FFFFFF"
+	bg[INSENSITIVE] = "#666666"
+}
+style "buttons" = "widgets" {
+	GtkButton::inner-border = { 10, 10, 10, 10 }
+}
+
+class "Gtk*Button" style "buttons"
