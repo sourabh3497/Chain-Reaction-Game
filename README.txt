@@ -1,8 +1,10 @@
-PROJECT NAME: Chain reaction Game
+CHAIN REACTION GAME
 
- M x M board.
- help page.
- pause and resume game.
- last saved game can be played.
- 5 human players are supported
- Game can be saved to file. 
+1.First enter the any size of BOX you want.
+2.Second select the Players.
+3.After this your game starts.
+4.To play tap on the boxes. 
+5.You can "Pause, Resume, Save, quit, Start New Game this game" by clicking appropriate Buttons at the TOP.
+
+Simply run the 'project' file to run the game or you can use the following command to create new object file :
+ 
